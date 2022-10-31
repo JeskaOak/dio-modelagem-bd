@@ -1,7 +1,12 @@
-# **Dio - Trilha de Modelagem de Dados**
+# **Dio - Trilha de Modelagem de Dados (Conceitual e Lógica)**
 
 **Modelo conceitual:** A modelagem conceitual é de alto nível, pessoas de diferentes áreas conseguem compreender. 
 Essa modelagem apresenta as entidades e seus relacionamentos.
+
+**Modelo lógico:** "Um modelo lógico possui conceitos que os usuários são capazes de entender, ao mesmo tempo em que não está distante do modelo físico do banco de dados. Neste nível, o projeto é independente de SGBD." *(Explicação retirada do canal Bóson Treinamentos)*
+
+---
+
 
 
 **Projeto 1 - Modelo conceitual de um ecommerce**
@@ -17,7 +22,7 @@ Essa modelagem apresenta as entidades e seus relacionamentos.
 - O cliente pode fazer mais de um pedido
 - Um pedido pode ter mais de um produto
 
-
+---
 
 **Projeto 2 - Modelo conceitual de uma ordem de serviço para uma oficina mecânica**
 
@@ -30,3 +35,15 @@ Essa modelagem apresenta as entidades e seus relacionamentos.
 - Cada veículo é designado para uma equipe de mecânicos que identifica o serviço a ser executado e preenche uma OS com data de entrega
 - O cliente autoriza a execução dos serviços
 - A mesma equipe avalia e executa os serviços
+
+---
+
+**Projeto 3 - Modelo lógico do ecommerce (mesmo ecommerce do projeto conceitual)**
+
+---
+
+
+**Projeto 4 - Modelo lógico da ordem de serviço (a mesma do projeto conceitual)**
+
+
+
